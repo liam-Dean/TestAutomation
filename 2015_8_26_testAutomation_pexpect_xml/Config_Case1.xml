@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Device>
+        <Name>CBM</Name>
+            <Host>10.178.28.26</Host>
+            <User>nortel</User>
+            <Passwd>nortel</Passwd>
+            <Protocal>telnet</Protocal>
+            <Port>23</Port>
+            <RootPasswd>root</RootPasswd>
+        <Name>Core</Name>
+            <Host>10.24.16.134</Host>
+            <User>lisa</User>
+            <Passwd>lisa</Passwd>
+            <Protocal>telnet</Protocal>
+            <Port>23</Port>
+        <Name>Server</Name>
+            <Host>202.38.35.184</Host>
+            <User>bsmbin</User>
+            <Passwd>Abcd01!</Passwd>
+            <Protocal>SSH</Protocal>
+            <Port>22</Port>
+    </Device>
+</Configuration>
