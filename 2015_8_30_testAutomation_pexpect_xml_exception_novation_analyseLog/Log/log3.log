@@ -1,0 +1,50 @@
+
+
+ Stream                  : 'AMA'
+File_Format_Type        : 'DIRP'
+Destination             : 'SDMA2835'
+Essential_Destination   : 'Yes'
+Protocol                : 'SFTPW'
+Primary_Destination     : '202.38.35.184'
+Primary_Port            : '22'
+Alternate_Destination   : '202.38.35.184'
+Alternate_Port          : '22'
+Start_Time              : '00:30'
+Stop_Time               : '23:30'
+Interval                : '5'
+Remote_Storage_Directory: '/export/home/bsmbin/lisa/billing4'
+Remote_Login            : 'bsmbin'
+Remote_Password         : '******'
+Maximum_Retries         : '3'
+Retry_Wait_Time         : '1'
+File_Extension          : ''
+Field_Separator         : '.'
+Active                  : 'Yes'
+
+Press Enter to continue ('Abort' quits)...
+Press Enter to continue ('Abort' quits
+
+ Stream                  : 'AMA'
+File_Format_Type        : 'DIRP'
+Destination             : 'asd'
+Essential_Destination   : 'Yes'
+Protocol                : 'SFTPW'
+Primary_Destination     : '202.38.35.184'
+Primary_Port            : '22'
+Alternate_Destination   : '202.38.35.184'
+Alternate_Port          : '22'
+Start_Time              : '00:30'
+Stop_Time               : '23:30'
+Interval                : '5'
+Remote_Storage_Directory: '/export/home/bsmbin/lisa/billing4'
+Remote_Login            : 'bsmbin'
+Remote_Password         : '******'
+Maximum_Retries         : '3'
+Retry_Wait_Time         : '1'
+File_Extension          : ''
+Field_Separator         : '.'
+Active                  : 'Yes'
+
+Press Enter to continue ('Abort' quits)...
+Press Enter to continue ('Abort' quits
+

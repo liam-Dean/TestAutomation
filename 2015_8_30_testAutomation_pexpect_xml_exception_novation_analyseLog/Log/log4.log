@@ -1,0 +1,122 @@
+
+
+<< 
+
+Trying 202.38.35.184...
+
+Connected to 202.38.35.184.
+
+Escape character is '^]'.
+
+
+This system is a restricted access system. All activity on this system is
+subject to monitoring. If information collected reveals possible criminal
+activity or activity that exceeds privileges, evidence of such activity may
+be provided to the relevant authorities for further action. By continuing
+past this point, you expressly consent to this monitoring.
+
+
+login:
+
+>> bsmbin
+
+
+<< 
+
+ bsmbin
+Password:
+
+>> Abcde01!
+
+
+<< 
+
+ 
+Login is only allowed for authorized users
+Last login: Thu Aug 20 10:22:52 from 10.178.28.35
+
+[m[m[m[Jcdma184%
+
+>> cd /export/home/bsmbin/jasonDing/billing;ls -l
+
+
+
+<< 
+
+ [Kccd /export/home/bsmbin/jasonDing/billing;ls -l
+
+total 9912
+-rw-r--r--   1 bsmbin   bsmbin    151552 Aug 11 16:21 U150811040702AMA
+-rw-r--r--   1 bsmbin   bsmbin     77824 Aug 11 16:28 U150811041703AMA
+-rw-r--r--   1 bsmbin   bsmbin     77824 Aug 11 17:07 U150811045604AMA
+-rw-r--r--   1 bsmbin   bsmbin     77824 Aug 11 17:16 U150811050505AMA
+-rw-r--r--   1 bsmbin   bsmbin    112640 Aug 11 17:22 U150811051106AMA
+-rw-r--r--   1 bsmbin   bsmbin    114688 Aug 11 17:28 U150811051807AMA
+-rw-r--r--   1 bsmbin   bsmbin     43008 Aug 12 09:52 U150811214108AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 12 09:59 U150811214809AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 12 10:44 U150811223310AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 12 11:39 U150811232911AMA
+-rw-r--r--   1 bsmbin   bsmbin     77824 Aug 12 12:57 U150812004612AMA
+-rw-r--r--   1 bsmbin   bsmbin    108544 Aug 12 13:33 U150812012213AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 12 13:38 U150812012714AMA
+-rw-r--r--   1 bsmbin   bsmbin     30720 Aug 13 23:26 U150812024815AMA
+-rw-r--r--   1 bsmbin   bsmbin     12288 Aug 13 23:26 U150812024816AMA
+-rw-r--r--   1 bsmbin   bsmbin     30720 Aug 13 23:26 U150812025017AMA
+-rw-r--r--   1 bsmbin   bsmbin     51200 Aug 13 23:26 U150812025018AMA
+-rw-r--r--   1 bsmbin   bsmbin     28672 Aug 13 23:26 U150812025619AMA
+-rw-r--r--   1 bsmbin   bsmbin     14336 Aug 13 23:26 U150812025720AMA
+-rw-r--r--   1 bsmbin   bsmbin     30720 Aug 13 23:26 U150812031121AMA
+-rw-r--r--   1 bsmbin   bsmbin    124928 Aug 13 23:26 U150812031122AMA
+-rw-r--r--   1 bsmbin   bsmbin     30720 Aug 13 23:26 U150812031723AMA
+-rw-r--r--   1 bsmbin   bsmbin     88064 Aug 13 23:26 U150812031724AMA
+-rw-r--r--   1 bsmbin   bsmbin     30720 Aug 13 23:26 U150812032625AMA
+-rw-r--r--   1 bsmbin   bsmbin     14336 Aug 13 23:26 U150812032626AMA
+-rw-r--r--   1 bsmbin   bsmbin     32768 Aug 13 23:26 U150812033527AMA
+-rw-r--r--   1 bsmbin   bsmbin     51200 Aug 13 23:26 U150812033528AMA
+-rw-r--r--   1 bsmbin   bsmbin     20480 Aug 13 23:26 U150812034429AMA
+-rw-r--r--   1 bsmbin   bsmbin     14336 Aug 13 23:26 U150812034430AMA
+-rw-r--r--   1 bsmbin   bsmbin     14336 Aug 13 23:26 U150812034431AMA
+-rw-r--r--   1 bsmbin   bsmbin     12288 Aug 13 23:26 U150812034732AMA
+-rw-r--r--   1 bsmbin   bsmbin     22528 Aug 13 23:26 U150812034733AMA
+-rw-r--r--   1 bsmbin   bsmbin     14336 Aug 13 23:26 U150812034734AMA
+-rw-r--r--   1 bsmbin   bsmbin     30720 Aug 13 23:26 U150812040435AMA
+-rw-r--r--   1 bsmbin   bsmbin     14336 Aug 13 23:26 U150812040436AMA
+-rw-r--r--   1 bsmbin   bsmbin     30720 Aug 13 23:26 U150812041437AMA
+-rw-r--r--   1 bsmbin   bsmbin     14336 Aug 13 23:26 U150812041438AMA
+-rw-r--r--   1 bsmbin   bsmbin    112640 Aug 13 23:26 U150812042339AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 13 23:26 U150812045040AMA
+-rw-r--r--   1 bsmbin   bsmbin     14336 Aug 13 23:26 U150813003341AMA
+-rw-r--r--   1 bsmbin   bsmbin    294912 Aug 13 23:26 U150813003442AMA
+-rw-r--r--   1 bsmbin   bsmbin    294912 Aug 13 23:26 U150813003443AMA
+-rw-r--r--   1 bsmbin   bsmbin    294912 Aug 13 23:26 U150813003444AMA
+-rw-r--r--   1 bsmbin   bsmbin    294912 Aug 13 23:26 U150813003445AMA
+-rw-r--r--   1 bsmbin   bsmbin    124928 Aug 13 23:26 U150813003446AMA
+-rw-r--r--   1 bsmbin   bsmbin     14336 Aug 13 23:26 U150813103347AMA
+-rw-r--r--   1 bsmbin   bsmbin     63488 Aug 13 23:26 U150813103448AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 14 09:17 U150813210649AMA
+-rw-r--r--   1 bsmbin   bsmbin     67584 Aug 14 09:26 U150813211550AMA
+-rw-r--r--   1 bsmbin   bsmbin     51200 Aug 14 09:31 U150813212151AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 14 09:45 U150813213452AMA
+-rw-r--r--   1 bsmbin   bsmbin     75776 Aug 14 09:52 U150813214153AMA
+-rw-r--r--   1 bsmbin   bsmbin    114688 Aug 14 09:57 U150813214654AMA
+-rw-r--r--   1 bsmbin   bsmbin     77824 Aug 14 10:03 U150813215255AMA
+-rw-r--r--   1 bsmbin   bsmbin     43008 Aug 14 10:08 U150813215756AMA
+-rw-r--r--   1 bsmbin   bsmbin     77824 Aug 14 10:17 U150813220657AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 14 10:29 U150813221858AMA
+-rw-r--r--   1 bsmbin   bsmbin     77824 Aug 14 10:35 U150813222459AMA
+-rw-r--r--   1 bsmbin   bsmbin     77824 Aug 14 10:40 U150813222960AMA
+-rw-r--r--   1 bsmbin   bsmbin     77824 Aug 14 11:01 U150813225061AMA
+-rw-r--r--   1 bsmbin   bsmbin    114688 Aug 14 11:08 U150813225762AMA
+-rw-r--r--   1 bsmbin   bsmbin     75776 Aug 14 11:15 U150813230463AMA
+-rw-r--r--   1 bsmbin   bsmbin    114688 Aug 14 13:15 U150814010564AMA
+-rw-r--r--   1 bsmbin   bsmbin     79872 Aug 14 13:24 U150814011465AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 14 13:29 U150814011966AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 14 16:54 U150814044367AMA
+-rw-r--r--   1 bsmbin   bsmbin     79872 Aug 17 09:35 U150816212468AMA
+-rw-r--r--   1 bsmbin   bsmbin     81920 Aug 17 09:49 U150816213869AMA
+-rw-r--r--   1 bsmbin   bsmbin     43008 Aug 17 09:55 U150816214470AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 17 10:01 U150816215071AMA
+-rw-r--r--   1 bsmbin   bsmbin     40960 Aug 17 10:07 U150816215672AMA
+
+
+[m[m[m[Jcdma184%
