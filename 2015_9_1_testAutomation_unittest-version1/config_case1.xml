@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <!--                     CBM                       -->
+    <cbm_name               value="GSM_T4_CBM_HA"       />
+    <cluster_ip             value="10.178.28.32"        />
+    <cluster_user           value="nortel"              />
+    <cluster_password       value="nortel"              />
+    <cluster_root_user      value="root"                />
+    <cluster_root_password  value="root"                />
+    <unit0_ip               value="10.178.28.27"        />
+    <unit1_ip               value="10.178.28.28"        />
+    <console_ip             value="10.178.33.8"         />
+    <console_unit0_port     value="7028"                />
+    <console_unit1_port     value="7027"                />
+    <console_user           value="admin"               />
+    <console_password       value="admin"               />
+    <!--                    Core                       -->
+    <core_name              value="Sanity_10.24.16.134" />
+    <core_ip                value="10.24.16.134"        />
+    <core_user              value="lisa"                />
+    <core_password          value="lisa"                />
+    <!--                   Server                      -->
+    <server_name            value="Server_202.38.35.184"/>
+    <server_ip              value="202.38.35.184"       />
+    <server_user            value="bsmbin"              />
+    <server_password        value="Abcde01!"            />
+    <!--                   Verify                      -->
+    <stream                 value="AMA"                 />
+    <fileFormat             value="DIRP"                />
+    <destination            value="TEST"                />
+    <fileDestination        value="/export/home/bsmbin/lisa/billing4"/>
+    <defaultTimeout         value="3"                   />
+    <traverseTimeout        value="1"                   />
+</Configuration>
